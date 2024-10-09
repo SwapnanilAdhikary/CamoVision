@@ -8,10 +8,11 @@
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage]()
+- [Usage](#usage)
 - [Model Performance](#model-performance)
 - [Applications](#applications)
-
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Features
 
