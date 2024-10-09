@@ -2,7 +2,7 @@
 
 ## Overview
 
-**CamouflageDetector** is a machine learning project that utilizes the **YOLOv8** segmentation model to detect camouflaged objects, specifically hidden soldiers, in complex environments. This project leverages the **Adaptive Camouflaged Dataset (ACD1K)** to train a custom model capable of identifying threats that blend into their surroundings.
+CamoVision is a machine learning project that utilizes the **YOLOv8** segmentation model to detect camouflaged objects, specifically hidden soldiers, in complex environments. This project leverages the **Adaptive Camouflaged Dataset (ACD1K)** to train a custom model capable of identifying threats that blend into their surroundings.
 
 ## Table of Contents
 
