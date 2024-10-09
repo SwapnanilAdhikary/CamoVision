@@ -1,4 +1,4 @@
-# CamouflageDetector
+# CamoVision
 
 ## Overview
 
