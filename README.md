@@ -32,7 +32,7 @@
 - Mean Precision: 0.6932
 - Mean Recall: 0.5083
 - Mean mAP: 0.6109
-##Applications
+## Applications
 - Military: Helps in detecting threats that use camouflage.
 - Surveillance: Enhances the ability to spot concealed individuals.
 - Search & Rescue: Aids in locating hidden individuals in difficult terrains.
