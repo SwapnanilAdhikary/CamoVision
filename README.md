@@ -11,8 +11,6 @@
 - [Usage](#usage)
 - [Model Performance](#model-performance)
 - [Applications](#applications)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -25,5 +23,16 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/CamouflageDetector.git
-   cd CamouflageDetector
+   git clone https://github.com/SwapnanilAdhikary/CamoVision
+   cd CamoVision
+#usage
+-Used to detected camoflauged objects
+#model-performance
+📊 Current Performance:
+- Mean Precision: 0.6932
+- Mean Recall: 0.5083
+- Mean mAP: 0.6109
+#applications
+- Military: Helps in detecting threats that use camouflage.
+- Surveillance: Enhances the ability to spot concealed individuals.
+- Search & Rescue: Aids in locating hidden individuals in difficult terrains.
