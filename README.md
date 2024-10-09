@@ -25,14 +25,14 @@
    ```bash
    git clone https://github.com/SwapnanilAdhikary/CamoVision
    cd CamoVision
-#usage
+## Usage
 -Used to detected camoflauged objects
-#model-performance
+## Model-performance
 📊 Current Performance:
 - Mean Precision: 0.6932
 - Mean Recall: 0.5083
 - Mean mAP: 0.6109
-#applications
+##Applications
 - Military: Helps in detecting threats that use camouflage.
 - Surveillance: Enhances the ability to spot concealed individuals.
 - Search & Rescue: Aids in locating hidden individuals in difficult terrains.
